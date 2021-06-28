@@ -1,6 +1,9 @@
 # BeatTheVirus-GameProject
 ## Salgını Bastır 
 ![image](https://user-images.githubusercontent.com/61146690/123651697-5e7bc200-d834-11eb-820f-96916a3b7541.png)
+
+##Poster
+![image](https://user-images.githubusercontent.com/61146690/123654307-a00d6c80-d836-11eb-91d3-585432a3d169.png)
  
 ## About the Game
 ![image](https://user-images.githubusercontent.com/61146690/123652186-c03c2c00-d834-11eb-9a78-d78224661785.png)
